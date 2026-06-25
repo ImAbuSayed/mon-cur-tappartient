@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mon-cur-tappartient/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Mon Cœur T'appartient](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mon-cur-tappartient/) |
+| **Get License** | [Official Music Licensing for Mon Cœur T'appartient](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mon-cur-tappartient/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4063c68e8b41751d6ee4046fd49d0d02c90d5e96a20b7e97597bdf2e8001b373` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

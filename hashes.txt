@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mon Cœur T'appartient
+
+This log tracks the cryptographic history and versioning for the song **Mon Cœur T'appartient** (mon-cur-tappartient).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T03:17:03.509319 | `v1` | `4063c68e8b41751d6ee4046fd49d0d02c90d5e96a20b7e97597bdf2e8001b373` | `baf1b757679160ddb65d531e88fcef4727b0af7fb58c47e16c667ad9c702b0f3` | `2026-06-26_mon-cur-tappartient-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
