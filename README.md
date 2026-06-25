@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mon-cur-tappartient/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Mon Cœur T'appartient](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mon-cur-tappartient/) |
+| **Get License** | [Obtain a Music License for Mon Cœur T'appartient](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mon-cur-tappartient/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mon cœur t'appartient, sous les néons de Paris
+> Ton regard me retient, you're my midnight fantasy
+> Chaque battement résonne, au rythme de la night
+> Mon cœur t'appartient, babe you make me feel so right
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
